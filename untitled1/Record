@@ -1,0 +1,19 @@
+1.Github地址：http://erlander.github.io/Python/. Read more at https://help.github.com/pages
+
+2.如何连接Github>>
+    下载Github for Windows,并安装
+3. Python的核心数据类型
+      数字           123
+    、字符串         '123'
+    、列表           [1,2,[12,3]]
+    、字典           {'food':'spam','taste':'yun'}
+    、元组           (1,'spam',2,'u')
+    、文件            myfile=open("...")
+    、集合           set('abc'),{'a','b','c'}
+    、其他类型       类型、布尔、None
+    、编程单元类型   函数、模块、类
+    、与现实相关的类型 编译的代码堆栈跟踪
+
+100页：模式匹配
+
+4.Github连接成功
